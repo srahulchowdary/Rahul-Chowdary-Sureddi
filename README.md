@@ -11,3 +11,17 @@ Automotive Engineering graduate with experience in Google Maps Operations. Curre
 - Excel
 - Data Analysis
 - Dashboard Development
+
+## Featured Projects
+
+### 🚚 E-Commerce Sales & Delivery Performance Analysis
+
+SQL and Power BI project analyzing revenue trends, delivery performance, customer satisfaction, and business KPIs.
+
+🔗 Repository: https://github.com/srahulchowdary/ecommerce-sales-analysis
+
+### 🚗 Used Car Market Analysis Dashboard
+
+SQL and Power BI project analyzing vehicle pricing, depreciation, fuel preferences, transmission trends, and automotive market insights.
+
+🔗 Repository: https://github.com/srahulchowdary/used-car-analysis
